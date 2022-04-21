@@ -1,0 +1,29 @@
+main{
+    width: 70%;
+    margin: auto;
+}
+#id{
+    display: none;
+  }
+  #modosit{
+    display: none;
+  }
+  form{
+      max-width: 80%;
+      margin: auto;
+  }
+  form>div>label{
+      text-align: right;
+  }
+form>.gomb{
+    margin-left: 25vh;
+}
+
+div>a{
+    text-decoration: none;
+}
+
+.fejlec{
+    background-color: black;
+    color: white;
+}
